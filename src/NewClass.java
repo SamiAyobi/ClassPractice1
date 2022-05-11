@@ -7,7 +7,7 @@ public class NewClass {
 	int g= x+y;
 	System.out.println(g);
 
-		
+	System.out.println("THis is for class practice with OVI");	
 		
 		
 }
