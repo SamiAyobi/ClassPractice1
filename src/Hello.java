@@ -4,7 +4,7 @@ public class Hello {
 	
 	public static void main(String[] args) {
 		
-		String git ="new change for the web";
+		String git ="I don't like this changes";
 		String github = "github is repository";
 		
 		String gitAdd = "to add the missing files";
