@@ -4,7 +4,7 @@ public class Hello {
 	
 	public static void main(String[] args) {
 		
-		String git ="git is a tool and it is version control";
+		String git ="new change for the web";
 		String github = "github is repository";
 		
 		String gitAdd = "to add the missing files";
@@ -13,6 +13,7 @@ public class Hello {
 		String gitcommitpush = "commit is your localstorage +but push is your repository";
 				
 		System.out.println(git+github+gitAdd+commitm+gitpushuorigin);
+		
 		
 				
 }
